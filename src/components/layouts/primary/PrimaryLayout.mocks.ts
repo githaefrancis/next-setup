@@ -1,7 +1,10 @@
-// import { IPrimaryLayout } from './PrimaryLayout';
+import { NextPage } from 'next';
+import { IPrimaryLayout } from './PrimaryLayout';
 
-// const base: IPrimaryLayout = {};
+const base: IPrimaryLayout = {
+  children: null,
+};
 
-// export const mockPrimaryLayoutProps = {
-//   base,
-// };
+export const mockPrimaryLayoutProps = {
+  base,
+};
