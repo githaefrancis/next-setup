@@ -1,9 +1,7 @@
-import { IPrimaryLayout } from './PrimaryLayout';
+// import { IPrimaryLayout } from './PrimaryLayout';
 
-const base: IPrimaryLayout = {
-  sampleTextProp: 'Hello Card',
-};
+// const base: IPrimaryLayout = {};
 
-export const mockPrimaryLayoutProps = {
-  base,
-};
+// export const mockPrimaryLayoutProps = {
+//   base,
+// };
