@@ -1,0 +1,12 @@
+.grid{
+    margin: auto;
+    width: 50%;
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.title{
+    text-align: center;
+}
+.footer{
+    text-align: center;
+}
